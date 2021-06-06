@@ -19,4 +19,4 @@ Dans ce contexte, notre objectif était de détecter les visages des personnages
 ![alt text](https://github.com/JessicaGourdon/Face-Recognition/blob/main/Capture%20d%E2%80%99%C3%A9cran%20(144).png)
 
 Voici le rapport détaillé de ce projet :
->[auto](https://github.com/JessicaGourdon/Face-Recognition/blob/main/ProjectS7%20Report.pdf)
+>[Rapport](https://github.com/JessicaGourdon/Face-Recognition/blob/main/ProjectS7%20Report.pdf)
